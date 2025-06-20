@@ -35,7 +35,7 @@ Ordered
 Start numbering with offset:
 57. foo
 1. bar
-## Code
+## Cod
 Inline `code`
 Indented code
  // Some comments
